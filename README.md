@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ReactJs, TypeScript, and more.<br>👯 I’m looking to collaborate on Frontend development.<br>🌱 I’m currently learning NextJs.<br>💬 Ask me about Web Development.<br>⚡ Fun Fact: I've been known to refactor code in my sleep. Sometimes the best solutions come to me in dreams! 💤💻"
+🔭 I’m currently working on ReactJs, NextJs, TypeScript, and more.<br>👯 I’m looking to collaborate on Frontend development.<br>🌱 I’m currently learning Backend with LLM Integration.<br>💬 Ask me about Web Development.<br>⚡ Fun Fact: I've been known to refactor code in my sleep. Sometimes the best solutions come to me in dreams! 💤💻"
 
 
 ## 🌐 Socials:
